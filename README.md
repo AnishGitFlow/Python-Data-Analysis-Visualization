@@ -60,6 +60,7 @@ pip install numpy pandas matplotlib seaborn plotly cufflinks geopandas
 
 Clone the repo and start exploring:
 
+```bash
 git clone https://github.com/anishgitflow/python-data-analysis-visualization.git
 cd python-data-analysis-visualization
 
