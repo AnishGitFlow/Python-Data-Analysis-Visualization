@@ -98,9 +98,3 @@ Open the notebooks using **JupyterLab**, **Jupyter Notebook**, or **Visual Studi
 * [📘 GeoPandas Documentation](https://geopandas.org/)
 
 ---
-
-## 💡 Contributing
-
-Contributions are welcome! Feel free to fork the repository, submit pull requests, or open issues for improvements and suggestions.
-
----
