@@ -8,7 +8,7 @@ A comprehensive resource for learning **data analysis** and **data visualization
 
 ### 📈 Data Analysis
 
-1. **[NumPy](./numpy/)**
+1. **[NumPy](https://github.com/AnishGitFlow/Python-Data-Analysis-Visualization/tree/main/01_numpy)**
    - Array creation and manipulation
    - Indexing, slicing, and reshaping
    - Broadcasting and vectorized operations
