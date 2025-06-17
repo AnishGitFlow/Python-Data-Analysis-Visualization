@@ -13,12 +13,12 @@ A comprehensive resource for learning **data analysis** and **data visualization
    - Indexing, slicing, and reshaping
    - Broadcasting and vectorized operations
 
-2. **[Pandas](./pandas/)**
+2. **[Pandas](https://github.com/AnishGitFlow/Python-Data-Analysis-Visualization/tree/main/02_pandas/)**
    - Series and DataFrame fundamentals
    - Data indexing, filtering, and transformation
    - Handling missing data
 
-3. **[Pandas Exercises](./pandas-exercises/)**
+3. **[Pandas Exercises](https://github.com/AnishGitFlow/Python-Data-Analysis-Visualization/tree/main/03_pandas-exercises/)**
    - Beginner to advanced exercises
    - Practice with real-world datasets
 
@@ -26,23 +26,23 @@ A comprehensive resource for learning **data analysis** and **data visualization
 
 ### 🎨 Data Visualization
 
-4. **[Matplotlib](./matplotlib/)**
+4. **[Matplotlib](https://github.com/AnishGitFlow/Python-Data-Analysis-Visualization/tree/main/04_matplotlib/)**
    - Line, bar, and scatter plots
    - Subplots, legends, and annotations
 
-5. **[Seaborn](./seaborn/)**
+5. **[Seaborn](https://github.com/AnishGitFlow/Python-Data-Analysis-Visualization/tree/main/05_seaborn/)**
    - Statistical plots: histogram, KDE, box, violin
    - Categorical data visualization
    - Theme styling and aesthetics
 
-6. **[Pandas Built-in Plotting](./pandas-plotting/)**
+6. **[Pandas Built-in Plotting](https://github.com/AnishGitFlow/Python-Data-Analysis-Visualization/tree/main/06_pandas-plotting/)**
    - Quick visualizations with `.plot()` method
 
-7. **[Plotly & Cufflinks](./plotly-cufflinks/)**
+7. **[Plotly & Cufflinks](https://github.com/AnishGitFlow/Python-Data-Analysis-Visualization/tree/main/07_plotly-cufflinks/)**
    - Interactive visualizations
    - Integration with Pandas using Cufflinks
 
-8. **[Geographical Plotting](./geo-plotting/)**
+8. **[Geographical Plotting](https://github.com/AnishGitFlow/Python-Data-Analysis-Visualization/tree/main/08_geo-plotting/)**
    - Choropleth maps and `scattergeo` plots
    - Introduction to GeoPandas
 
